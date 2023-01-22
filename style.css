@@ -1,0 +1,59 @@
+body{
+
+    font-family: 'Roboto', sans-serif;
+    background-color: darkslategray;
+}
+
+.navbar a{
+    text-decoration: dashed;
+    margin-right: 40px;
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 2px;
+    background-color: ghostwhite;
+
+
+}
+h1{
+    color: floralwhite;
+}
+.bold{
+  color: rgb(239, 235, 243);
+  font-weight: bolder;
+  font-size: larger;
+  border: 2px solid orangered;
+border-radius: 10px;
+padding: 2px;
+background-color: darkolivegreen;
+text-align: left;
+
+}
+
+.information{
+    color: chocolate;
+}
+
+
+.information{
+    color: black;
+    font-size: larger;
+    font-weight: lighter;
+    border: 1px dashed;
+    border-radius: 10px;
+    padding: 1px;
+    background-color: darkolivegreen;
+
+}
+
+.deliver{
+    background-color: orangered;
+    font-size: medium;
+    font-weight: bold;
+    border: black groove;
+    border-radius: 10px;
+}
+
+.request{
+    font-size: larger;
+    font-weight: bolder;
+}
